@@ -65,5 +65,5 @@ Have a look at this [codepen][codepen].
 
 MIT
 
-[zxcvb-admonition]: https://github.com/haishanh/hexo-theme-zxcvb/blob/master/source/_scss/_admonition.scss
+[zxcvb-admonition]: https://github.com/haishanh/hexo-theme-zxcvb/blob/master/source/_scss/post/_admonition.scss
 [codepen]: http://codepen.io/haishanh/pen/zqqbmq/?editors=1100
